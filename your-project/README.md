@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Alberto Abreu]*
+*Alberto Abreu*
 
-*[Data Analytics, Barcelona & 01/08/2019]*
+*Data Analytics, Barcelona & 01/08/2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -22,9 +22,13 @@ his paper aims to study the flights' delays and its relationship with countries,
 
 ## Hypotheses / Questions
 The aim of this paper is to compare and test differences between the mean departure delays on different levels.
+
 1- The mean departure delay in Spain is greater than in the rest of Europe.
+
 2- The Barcelona Airport mean departure delay is lower in comparison with the airports in Spain.
+
 3- Vueling is not the best airline if you are in a hurry, as the mean departure delay is greater than the rest of the carriers.
+
 4- Daytime in terms of morning, afternoon and evening, night has an effect in classifying the flight as a delayed flight. (By regulations, if the flight is delayed more than 15 min it should be classified as delayed).
 
 <a name="dataset"></a>
@@ -39,18 +43,38 @@ A function was created to obtain all the flight information from all the airport
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+
+1- Setting up the objective
+2- Writing down some hypothesis
+3- Requesting the data
+4- Cleaning the data
+5- Explore the data
+6- Descriptive statistics analysis
+7- Inferences statistics analysis
+8- Hypothesis testings
+9- Recommendations
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+1- Trello as our project management tool. 
+
+2- GitHub as our verion control system. 
+
+3- Terminal to communicate with our VCS. 
+
+4- Python as our data wrangling language and visulizations
+
+5- SequelPro to store the data. 
+
+6- Slides as our presentation tool.
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/albertoabreu91/Project-Week-5-Your-Own-Project)  
+[Slides](https://slides.com/albertoabreu/deck-2#/)  
+[Trello](https://trello.com/b/L9GDhXas/project-4)  
+[Medium](https://medium.com/@abreualberto91/flight-delays-in-europe-dad1af88711a)
