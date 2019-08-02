@@ -45,13 +45,21 @@ A function was created to obtain all the flight information from all the airport
 ## Workflow
 
 1- Setting up the objective
+
 2- Writing down some hypothesis
+
 3- Requesting the data
+
 4- Cleaning the data
+
 5- Explore the data
+
 6- Descriptive statistics analysis
+
 7- Inferences statistics analysis
+
 8- Hypothesis testings
+
 9- Recommendations
 
 <a name="organization"></a>
