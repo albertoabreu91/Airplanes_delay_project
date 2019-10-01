@@ -4,6 +4,8 @@
 
 ### Should I bring a book to my next flight?
 
+[Click here to read the Medium article](https://medium.com/@abreualberto91/flight-delays-in-europe-dad1af88711a).
+
 *Alberto Abreu*
 
 *Data Analytics, Barcelona & 01/08/2019*
