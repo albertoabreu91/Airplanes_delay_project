@@ -19,7 +19,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-his paper aims to study the flights' delays and its relationship with countries, airports, and daytime using correlation analysis and hypothesis testing from real data obtain through the Aviation Edge API from July 25, 2019, to July 29, 2019. The purpose is to compare Spain’s delay time, in terms of departure, arrival and total delay time in minutes and see if it is statistically different from the rest of Europe. Moreover, the same comparison is provided with the Barcelona Airport (El Prat de Llobregat) against the rest of the airports in Spain.
+This paper aims to study the flights' delays and its relationship with countries, airports, and daytime using correlation analysis and hypothesis testing from real data obtain through the Aviation Edge API from July 25, 2019, to July 29, 2019. The purpose is to compare Spain’s delay time, in terms of departure, arrival and total delay time in minutes and see if it is statistically different from the rest of Europe. Moreover, the same comparison is provided with the Barcelona Airport (El Prat de Llobregat) against the rest of the airports in Spain.
 
 <a name="hypotheses-/-questions"></a>
 
